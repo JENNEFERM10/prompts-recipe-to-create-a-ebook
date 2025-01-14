@@ -34,15 +34,10 @@ Este projeto tem como objetivo explorar o tema de desenvolvimento web de forma a
 ## ✨ Features
 
 - **Conteúdo gerado via ChatGPT:** Textos explicativos e exemplos práticos.
-- **Imagens geradas via MidJourney:** Ilustrações para melhorar o entendimento visual.
-- **Material formatado em PowerPoint:** Organização profissional do conteúdo.
+- **Imagens geradas via LeonardoIA:** Ilustrações para melhorar o entendimento visual.
+- **Material formatado em GammaApp:** Organização profissional do conteúdo.
 
 ---
 
-## 📚 Materiais
 
-- **Imagens utilizadas**: Disponíveis na pasta `assets`.
-- **Ebook gerado**: Localizado em `output`.
-
----
 
